@@ -2,6 +2,10 @@
 
 Welcome to a comprehensive environmental sensing journey with your Raspberry Pi! This project brings the versatile [Pimoroni Enviro pHAT](https://shop.pimoroni.com/products/enviro-phat) to life using C# and .NET, transforming your Pi into an environmental monitoring station.
 
+<center>
+   <img src="_docs/image.png" height="200" alt="Image of the project" />
+</center>
+
 ## 🚀 What Does It Do?
 
 With this .NET IoT implementation, you can:
